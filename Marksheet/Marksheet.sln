@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marksheet", "Marksheet\Marksheet.csproj", "{49AC9433-5E63-43CD-8F86-EBB60CC9BA12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarksheetLib", "MarksheetLib\MarksheetLib.csproj", "{F345D7A7-902A-4958-BF3B-A14CFBFF9DE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49AC9433-5E63-43CD-8F86-EBB60CC9BA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AC9433-5E63-43CD-8F86-EBB60CC9BA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AC9433-5E63-43CD-8F86-EBB60CC9BA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AC9433-5E63-43CD-8F86-EBB60CC9BA12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F345D7A7-902A-4958-BF3B-A14CFBFF9DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F345D7A7-902A-4958-BF3B-A14CFBFF9DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F345D7A7-902A-4958-BF3B-A14CFBFF9DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F345D7A7-902A-4958-BF3B-A14CFBFF9DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B931CD79-99CF-4D96-A6BC-F174FCE1DF31}
+	EndGlobalSection
+EndGlobal
